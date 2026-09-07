@@ -207,7 +207,7 @@ function Hosting() {
           </table>
           <p>¹ Does not apply when building with a custom GitHub Actions workflow</p>
           <p>² Cloudflare Pages; no build limit when deploying locally via wrangler</p>
-          <p> .ch from CHF ~10.00/yr; .com CHF ~10-20/yr</p>
+          <p>³ .ch from CHF ~10.00/yr; .com CHF ~10-20/yr</p>
           <p>⁴ Cloudflare Access; Up to 50 users free</p>
           <p>⁵ Applies only to dynamic Worker code; requests to static assets are free and unlimited</p>
       </div>
